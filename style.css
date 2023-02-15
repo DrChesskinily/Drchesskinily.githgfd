@@ -609,7 +609,6 @@ h2{
 }
 
 .devdetector:before{
-	content:url('images/devdetector.png');;
 /* 	background:  */
 	width: 10px;
 	height:10px;
