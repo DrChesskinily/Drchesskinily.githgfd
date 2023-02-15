@@ -609,7 +609,7 @@ h2{
 }
 
 .devdetector:before{
-	content:url('https://devdetector.drchesskinily.repl.co/images/devdetector.png');;
+	content:url('images/devdetector.png');;
 /* 	background:  */
 	width: 10px;
 	height:10px;
