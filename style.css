@@ -164,6 +164,10 @@ a{
 	background-color: #b10b9b;
 }
 
+.swap:hover{
+	background-color: #b10b9b;
+}
+
 .section{
 /* 	padding:30px; */
 	margin-top:30px;
